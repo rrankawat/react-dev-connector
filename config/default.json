@@ -1,3 +1,3 @@
 {
-  "mongoURI": "mongodb+srv://rrankawat:rakesh123@devconnector-r0dcw.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://rrankawat:rakesh123@devconnector-r0dcw.mongodb.net/test?retryWrites=true&w=majority"
 }
